@@ -1,6 +1,8 @@
 # ESP8266 IR Repeater
 Transmits IR signals over Wi-Fi. Tested using NodeMCU V3 and some cheap IR modules.
-![IR receiver and transmitter module](ir_module.jpg)
+
+<br>
+<img src="ir_module.jpg" alt="IR receiver and transmitter module" width="200"/>
 
 ## Requirements
 - [IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266)
